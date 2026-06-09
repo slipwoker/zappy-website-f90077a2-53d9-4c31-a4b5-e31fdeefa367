@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://yl-barber-hair-f90077a2.zappy5.app
+https://example.com
 מחפש ספר גברים קרוב? YL Barber Hair ברמת גן מעניק לך חוויית תספורת אישית ומוקפדת בתיאום מראש. לחץ להזמנת תור עכשיו ולבלוק מושלם.
 
 ### אודות
-https://yl-barber-hair-f90077a2.zappy5.app/about
+https://example.com/about
 בואו לגלות את התשוקה והמקצוענות שמאחורי YL Barber Hair, ספריית גברים מובילה עם גישה אישית. סיפור של אומנות, דיוק ויחס שאין באף מקום אחר.
 
 ### גלריה
-https://yl-barber-hair-f90077a2.zappy5.app/gallery
+https://example.com/gallery
 דפדף בין תמונות אמיתיות מהאוסף האישי שלנו ותראה למה YL Barber Hair הוא הספר הכי מדובר בעיר. אומנות תספורת גברים שתגרום לך לרצות תור מיד.
 
 ### צור קשר
-https://yl-barber-hair-f90077a2.zappy5.app/contact
+https://example.com/contact
 מוכן לשדרג את המראה? צור קשר עכשיו עם YL Barber Hair, ספר גברים יוקרתי בתיאום אישי. אנחנו מחכים לך ברחוב בן גוריון 171 ברמת גן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://yl-barber-hair-f90077a2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://yl-barber-hair-f90077a2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://yl-barber-hair-f90077a2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://yl-barber-hair-f90077a2.zappy5.app/contact
-- Endpoint: https://yl-barber-hair-f90077a2.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Barbershop
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://yl-barber-hair-f90077a2.zappy5.app/sitemap.xml
-- Robots: https://yl-barber-hair-f90077a2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://yl-barber-hair-f90077a2.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
