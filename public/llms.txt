@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yonatanlevi13@icloud.com
+- Phone: 0505599443
+- Phone (tel): tel:0505599443
+- Address: בן גוריון 171, רמת גן
 
 ### Contact form
 - URL: https://example.com/contact
